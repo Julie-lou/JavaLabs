@@ -19,7 +19,7 @@ public class recursion {
             // Negative power
             return 1 / power(x, -n);
         }
-    }}
+    }
   }
 
     
