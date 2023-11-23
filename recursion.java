@@ -15,7 +15,6 @@ public class recursion {
         } else if (n > 0) {
             return x * power(x, n - 1);
         } else {
-            // Negative power
             return 1 / power(x, -n);
         }
     }
