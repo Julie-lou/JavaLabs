@@ -4,8 +4,7 @@ public class recursion {
         int n = 3;
         double result = power(x, n);
         System.out.println(x + " raised to the power of " + n + " is: " + result);
-    //call your recursion fuction
-    //print result
+   
 
    }
     
